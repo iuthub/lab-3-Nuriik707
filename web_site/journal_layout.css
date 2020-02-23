@@ -1,0 +1,46 @@
+
+body { 
+	
+
+	background-image: url(https://avatanplus.com/files/resources/original/5c9797172d352169b0263291.jpg) ;
+}
+ 
+
+.cont	{
+	display: flex;
+	flex-direction: column;
+	
+	flex-wrap: nowrap;
+	
+	width: 1200px;
+	border: 5px white solid;
+	background-color: white;
+}
+
+.title {
+	
+		background-color: #60b9ce;	
+		border: 5px white solid;
+}
+
+.subtitle {
+	
+}
+
+.second {
+
+	padding: 5px;
+	margin: 10px 0 0 0;
+	background-color: #E8FBFB;
+		border: 5px grey solid;
+}
+
+.date{
+	
+
+}
+
+.third {
+	background-color: #E8FBFB;
+		border: 5px grey solid;
+}
